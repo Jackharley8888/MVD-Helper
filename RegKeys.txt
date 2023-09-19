@@ -530,3 +530,4 @@
 00425-00000-00002-AA402,https://vk.com/v.vladosik666aye
 00331-10000-00001-AA576,https://vk.com/mtagirovic
 00330-80000-00000-AA349,https://vk.com/werdee
+00330-80203-20640-AA705,https://vk.com/xutoox
