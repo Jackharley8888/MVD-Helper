@@ -531,3 +531,4 @@
 00331-10000-00001-AA576,https://vk.com/mtagirovic
 00330-80000-00000-AA349,https://vk.com/werdee
 00330-80203-20640-AA705,https://vk.com/xutoox
+00330-80000-00000-AA752,https://vk.com/mmilesst
