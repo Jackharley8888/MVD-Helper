@@ -536,3 +536,5 @@
 00342-41421-21362-AAOEM,https://vk.com/floydflov
 00330-80000-00000-AA220,https://vk.com/id823059181
 00330-80000-00000-AA572,https://vk.com/critovsky
+00325-81453-87337-AAOEM,https://vk.com/20chelovek01
+00330-80000-00000-AA732,https://vk.com/id772996425
