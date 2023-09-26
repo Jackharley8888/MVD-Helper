@@ -540,3 +540,4 @@
 00330-80000-00000-AA732,https://vk.com/id772996425
 00330-80000-00000-AA124,https://vk.com/vkmuzikalkin
 00325-81498-70995-AAOEM,https://vk.com/id548961711
+00325-80000-00000-AAOEM,https://vk.com/youngblaze
