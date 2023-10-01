@@ -551,3 +551,4 @@
 00330-80000-00000-AA180,https://vk.com/id604027035
 00330-80000-00000-AA252,https://vk.com/leemoon9
 00327-30004-22184-AAOEM,https://vk.com/id646464357
+00342-41387-80067-AAOEM,https://vk.com/danila.danilov7
