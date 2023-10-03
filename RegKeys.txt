@@ -300,7 +300,7 @@
 00330-80000-00000-AA468,https://vk.com/landishhhez
 00326-00829-36925-AAOEM,https://vk.com/dobrix13
 00330-80000-00000-AA278,https://vk.com/karanaev4042000
-00331-10000-00001-AA537,https://vk.com/artem202
+00331-10000-00001-AA886,https://vk.com/artem202
 00331-10000-00001-AA929,https://vk.com/bengzo
 00326-10000-00000-AA829,https://vk.com/id487292222
 00327-70000-00001-AA509,https://vk.com/nikita0355
