@@ -558,3 +558,5 @@
 00330-80000-00000-AA122,https://vk.com/g1bran
 00330-80127-84182-AA077,https://vk.com/kazutora23
 00326-10890-56152-AA318,https://vk.com/id739555180
+00425-00000-00002-AA566,https://vk.com/marka_obraznuy138
+00331-10000-00001-AA598,https://vk.com/only.his.bad.girl
