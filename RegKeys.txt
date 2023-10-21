@@ -583,3 +583,4 @@
 00330-80126-17402-AA672,https://vk.com/h_e_r_o_b_r_1_n
 00331-10000-00001-AA339,https://vk.com/y.kryuchko
 00330-80000-00000-AA515,https://vk.com/paxyil
+00331-10000-00001-AA806,https://vk.com/c_h_m_o_n_y_a
