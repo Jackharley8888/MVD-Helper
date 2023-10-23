@@ -560,7 +560,7 @@
 00326-10890-56152-AA318,https://vk.com/id739555180
 00425-00000-00002-AA566,https://vk.com/marka_obraznuy138
 00331-10000-00001-AA598,https://vk.com/only.his.bad.girl
-00331-10000-00001-AA659,https://vk.com/danilqa0
+00331-10000-00001-AA487,https://vk.com/danilqa0
 00330-80000-00000-AA505,https://vk.com/tybik21
 00331-10000-00001-AA897,https://vk.com/marian27
 00326-10000-00000-AA251,https://vk.com/id447966932
