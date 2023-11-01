@@ -608,3 +608,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA032,https://vk.com/aligmen
 00331-10000-00001-AA895,https://vk.com/alexander.ostrovskiy
 00331-10000-00001-AA805,https://vk.com/g.pelsik
+00330-80000-00000-AA289,https://vk.com/maiorov_roman
