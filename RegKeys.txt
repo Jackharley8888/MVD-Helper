@@ -606,3 +606,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-10000-00000-AA239,https://vk.com/aleksei144
 00330-80000-00000-AA021,https://vk.com/artem_katorkin
 00331-10000-00001-AA032,https://vk.com/aligmen
+00331-10000-00001-AA895,https://vk.com/alexander.ostrovskiy
