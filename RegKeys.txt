@@ -610,3 +610,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA805,https://vk.com/g.pelsik
 00330-80000-00000-AA289,https://vk.com/maiorov_roman
 00330-80000-00000-AA560,https://vk.com/r.kejik
+00331-10000-00001-AA443,https://vk.com/maksik971
