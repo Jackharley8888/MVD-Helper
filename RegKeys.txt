@@ -41,7 +41,6 @@
 00330-80000-00000-AA546,https://vk.com/krytoyperez
 00378-20000-00003-AA658,https://vk.com/shvedreyes
 00331-10000-00001-AA365,https://vk.com/stmezhut
-00330-54184-59657-AAOEM,https://vk.com/ids.sueta
 00330-80000-00000-AA035,https://vk.com/staroverov123
 00327-60000-00000-AA953,https://vk.com/id717582075
 00330-80000-00000-AA542,https://vk.com/maxon3r
@@ -616,3 +615,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA258,https://m.vk.com/agaev_farid
 00326-10000-00000-AA472,https://vk.com/kiryshka67
 00330-80000-00000-AA924,https://vk.com/shk0lnlk
+00330-54184-59657-AAOEM,https://vk.com/ids.sueta
