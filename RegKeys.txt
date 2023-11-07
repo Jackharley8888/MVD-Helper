@@ -477,7 +477,7 @@
 00325-80000-00000-AAOEM,https://vk.com/id681312982
 00330-80000-00000-AA082,https://vk.com/zagidullin7
 00330-80000-00000-AA131,https://vk.com/eternalhatred2
-00330-80000-00000-AA349,https://vk.com/3tapvk
+00331-10000-00001-AA479,https://vk.com/3tapvk,https://vk.com/stul.ch1k
 00326-10000-00000-AA269,https://vk.com/vlad_sdv
 00325-80097-49567-AAOEM,https://vk.com/id582347497
 00326-10000-00000-AA013,https://vk.com/id528077019
