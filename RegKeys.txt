@@ -654,3 +654,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA610,https://vk.com/indigovod
 00326-10000-00000-AA129,https://vk.com/k.sevko
 00330-80000-00000-AA046,https://vk.com/bulat00001
+00330-80000-00000-AA685,https://vk.com/drifter228rus
