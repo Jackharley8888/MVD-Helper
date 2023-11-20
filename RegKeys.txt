@@ -658,3 +658,5 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-10124-45664-AA512,https://vk.com/mickeysanders
 00329-00000-00003-AA595,https://vk.com/mmoonnsstteerr
 00331-20020-00000-AA171,https://vk.com/id642824179
+00331-10000-00001-AA201,https://vk.com/monsetq
+00325-81963-53533-AAOEM,https://vk.com/id694507741
