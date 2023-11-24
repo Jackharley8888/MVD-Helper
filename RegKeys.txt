@@ -664,3 +664,5 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA353,https://vk.com/maksim220109
 00331-10000-00001-AA860,https://vk.com/kawasaki_kx_85_valit
 00331-10000-00001-AA468,https://vk.com/almazovv_d
+00331-10000-00001-AA566,https://vk.com/demon_proud
+00330-80000-00000-AA256,https://vk.com/id685931616
