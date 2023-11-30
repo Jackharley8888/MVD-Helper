@@ -673,3 +673,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00328-90000-00000-AAOEM,https://vk.com/r.devletov
 00326-10000-00000-AA213,https://vk.com/beed96
 00331-10000-00001-AA131,https://vk.com/id445505730
+00330-80000-00000-AA023,https://vk.com/71oy1
