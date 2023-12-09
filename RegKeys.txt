@@ -688,4 +688,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA749,https://vk.com/garant_oparastyk
 00330-80000-00000-AA119,https://vk.com/id407034037
 00326-10000-00000-AA189,https://vk.com/id545660016
-00331-10000-00001-АА046,https://vk.com/olezhikmoto
+00331-10000-00001-AA046,https://vk.com/olezhikmoto
