@@ -690,3 +690,5 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-10000-00000-AA189,https://vk.com/id545660016
 00331-10000-00001-AA046,https://vk.com/olezhikmoto
 00326-10000-00000-AA743,https://vk.com/azartdesigner
+00331-10000-00001-AA063,https://vk.com/dya_dya_harizma
+00330-80000-00000-AA900,https://vk.com/id580219432
