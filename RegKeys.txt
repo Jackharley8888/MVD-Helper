@@ -695,7 +695,7 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA900,https://vk.com/id580219432
 00331-20160-00000-AA598,https://vk.com/id667955982
 00328-10000-00001-AA442,https://vk.com/nelzin
-00331-10000-00001-AA875,https://vk.com/id_bilorus_dima
+00330-80000-00000-AA174,https://vk.com/id_bilorus_dima
 00331-10000-00001-AA862,https://vk.com/id506928745
 00326-30000-00001-AA066,https://vk.com/forqly
 00331-10000-00001-AA776,https://vk.com/v1x0n
