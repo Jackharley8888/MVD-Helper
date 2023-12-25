@@ -706,3 +706,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00425-00000-00002-AA012,https://vk.com/nnlacoste
 00327-70000-00001-AA322,https://vk.com/id576818034
 00331-10000-00001-AA821,https://vk.com/kostyarovno
+00330-80000-00000-AA528,https://vk.com/0gus0
