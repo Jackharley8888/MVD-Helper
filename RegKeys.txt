@@ -708,3 +708,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA821,https://vk.com/kostyarovno
 00330-80000-00000-AA528,https://vk.com/0gus0
 00330-80000-00000-AA694,https://vk.com/almaz804
+00331-10000-00001-AA580,https://vk.com/german_chernoysov
