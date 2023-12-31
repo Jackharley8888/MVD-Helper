@@ -718,3 +718,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-10890-10323-AA896,https://vk.com/id453680019
 00330-80000-00000-AA473,https://vk.com/id807789724
 00326-10000-00000-AA718,https://vk.com/id700063073
+00330-80000-00000-AA768,https://vk.com/jeeknife
