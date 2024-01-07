@@ -730,3 +730,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA886,https://vk.com/malin229
 00330-80000-00000-AA547,https://vk.com/id431435769
 00330-80000-00000-AA678,https://vk.com/id695482332
+00330-80000-00000-AA626,https://vk.com/maksim_sem
