@@ -742,3 +742,5 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA815,https://vk.com/id450474623
 00330-80000-00000-AA654,https://vk.com/denchik797979
 00330-50000-00000-AAOEM,https://vk.com/yarik_ruke
+00328-90000-00000-AAOEM,https://vk.com/anton_killman
+00331-10000-00001-AA962,https://vk.com/vatdi
