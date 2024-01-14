@@ -223,7 +223,6 @@
 00329-00000-00003-AA598,https://vk.com/cheats_skill
 35247-OEM-3659298-60243,https://vk.com/niggawigg
 00329-00000-00003-AA404,https://vk.com/banka_s_lemonade
-00328-90000-00000-AAOEM,https://vk.com/dysexyz
 00371-868-0000007-85904,https://vk.com/id492968002
 00331-10000-00001-AA390,https://vk.com/id754426202
 00327-30202-66632-AAOEM,https://vk.com/bboycraft
@@ -722,7 +721,6 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA201,https://vk.com/id587355581
 00327-30773-00152-AAOEM,https://vk.com/id760894930
 00330-80000-00000-AA400,https://vk.com/k4s00
-00327-60000-00000-AA236,https://vk.com/dysexyz
 00331-10000-00001-AA795,https://vk.com/neclocer
 00342-50201-04495-AAOEM,https://vk.com/id734851180
 00331-10000-00001-AA540,https://vk.com/genntery
@@ -754,3 +752,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-30000-00001-AA274,https://vk.com/sanya_musurin
 00330-80000-00000-AA935,https://vk.com/spoiledinside
 00331-10000-00001-AA856,https://vk.com/igooooregg
+00327-60000-00000-AA648,https://vk.com/dysexyz
