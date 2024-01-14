@@ -745,7 +745,7 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00328-90000-00000-AAOEM,https://vk.com/anton_killman
 00331-10000-00001-AA962,https://vk.com/vatdi
 00330-80000-00000-AA696,https://vk.com/ataev202
-00330-80000-00000-AA740,https://vk.com/apa1onsky
+00378-20000-00003-AA087,https://vk.com/apa1onsky
 00331-10000-00001-AA284,https://vk.com/sosi_moyhuy
 00330-80000-00000-AA429,https://vk.com/biestoloc
 00330-80000-00000-AA035,https://vk.com/fawer2019
