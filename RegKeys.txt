@@ -792,3 +792,7 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA356,https://vk.com/xxxxxxxxxxx24
 00330-80000-00000-AA403,https://vk.com/skaiwp
 00330-80000-00000-AA178,https://vk.com/lil.eblan
+00330-55587-70453-AAOEM,https://vk.com/vellasquez
+00330-81617-55790-AA937,https://vk.com/veldyukhov
+00327-30636-19103-AAOEM,https://vk.com/id644038943
+00326-10013-79302-AA067,https://vk.com/playboiblazer
