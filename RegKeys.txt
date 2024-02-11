@@ -822,3 +822,5 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA545,https://vk.com/weyll_o
 00331-10000-00001-AA202,https://vk.com/makc2344444
 00331-10000-00001-AA060,https://vk.com/tr1pa3
+00331-10000-00001-AA863,https://vk.com/koisw
+00331-10000-00001-AA001,https://vk.com/vlad_diev
