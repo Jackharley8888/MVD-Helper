@@ -824,3 +824,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA060,https://vk.com/tr1pa3
 00331-10000-00001-AA863,https://vk.com/koisw
 00331-10000-00001-AA001,https://vk.com/vlad_diev
+00327-70000-00001-AA208,https://vk.com/denchik_bardusov
