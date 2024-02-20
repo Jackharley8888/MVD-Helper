@@ -513,7 +513,7 @@
 00329-00000-00003-AA901,https://vk.com/4elshelby
 00331-10000-00001-AA682,https://vk.com/id760858199
 00330-80000-00000-AA431,https://vk.com/alkorezov
-00331-10000-00001-AA601,https://vk.com/yagedz
+00331-10000-00001-AA424,https://vk.com/yagedz
 00327-30650-44410-AAOEM,https://vk.com/id785672888
 00330-80000-00000-AA692,https://vk.com/harano
 00327-60000-00000-AA656,https://vk.com/brabusovskiy
