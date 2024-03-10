@@ -854,7 +854,7 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA475,https://vk.com/ackermannt
 00331-10000-00001-AA896,https://vk.com/xc.vannya
 00330-80000-00000-AA592,https://vk.com/daniks04
-00331-10000-00001-AA214,https://vk.com/am4gus0v
+00331-10000-00001-AA749,https://vk.com/am4gus0v
 00425-00000-00002-AA568,https://vk.com/zi0ch
 00326-10000-00000-AA470,https://vk.com/yakaito
 00330-80000-00000-AA279,https://vk.com/ymokasi
@@ -874,3 +874,5 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA464,https://vk.com/id785966074
 00331-20250-00393-AA974,https://vk.com/garanin1998
 00330-80000-00000-AA122,https://vk.com/g1bran
+00330-80000-00000-AA987,https://vk.com/amirhacagi
+00378-20000-00003-AA929,https://vk.com/joofertuman
