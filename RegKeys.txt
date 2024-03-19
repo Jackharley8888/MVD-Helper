@@ -31,7 +31,6 @@
 00426-OEM-8992662-00400,https://vk.com/exotic_78
 00327-70000-00001-AA806,https://vk.com/arnur0907
 00331-10000-00001-AA523,https://vk.com/vvoronoy2017
-00330-80000-00000-AA008,https://vk.com/0disneyland0
 00331-10000-00001-AA460,https://vk.com/pacemon2007
 00331-10000-00001-AA428,https://vk.com/prosto.samsa
 00331-10000-00001-AA534,https://vk.com/gagaga6666
@@ -895,3 +894,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-30000-00001-AA219,https://vk.com/huisgorid
 00330-80000-00000-AA133,https://vk.com/ntrnz
 00331-20020-00000-AA178,https://vk.com/littledenchik
+00327-70000-00001-AA596,https://vk.com/0disneyland0
