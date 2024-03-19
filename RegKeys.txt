@@ -890,3 +890,6 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA861,https://vk.com/id801350563
 00378-20000-00003-AA822,https://vk.com/zxcswet
 00331-10000-00001-AA478,https://vk.com/votekill
+00327-70000-00001-AA261,https://vk.com/mihai_potinga
+00331-10000-00001-AA887,https://vk.com/id706700921
+00326-30000-00001-AA219,https://vk.com/huisgorid
