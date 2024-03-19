@@ -893,3 +893,5 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00327-70000-00001-AA261,https://vk.com/mihai_potinga
 00331-10000-00001-AA887,https://vk.com/id706700921
 00326-30000-00001-AA219,https://vk.com/huisgorid
+00330-80000-00000-AA133,https://vk.com/ntrnz
+00331-20020-00000-AA178,https://vk.com/littledenchik
