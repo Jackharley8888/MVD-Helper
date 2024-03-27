@@ -907,3 +907,5 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-30000-00001-AA510,https://vk.com/id495819430
 00330-80000-00000-AA522,https://vk.com/escate_ivan
 00326-10881-36621-AA629,https://vk.com/id552003100
+00326-30000-00001-AA279,https://vk.com/id674380435
+00331-10000-00001-AA049,https://vk.com/jdsjdhs
