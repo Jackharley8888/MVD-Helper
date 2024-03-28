@@ -313,7 +313,6 @@
 00330-80000-00000-AA506,https://vk.com/acril01
 00331-10000-00001-AA288,https://vk.com/serzik288
 00330-80000-00000-AA892,https://vk.com/maiorov_roman
-00331-10000-00001-AA618,https://vk.com/kawasaki_kx_85_valit
 00327-30553-37109-AAOEM,https://vk.com/klaus_mills
 00331-10000-00001-AA565,https://vk.com/solevoyd
 00330-80000-00000-AA476,https://vk.com/cherq
@@ -910,3 +909,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA093,https://vk.com/id430606492
 00330-80000-00000-AA601,https://vk.com/a.human17
 00330-80000-00000-AA255,https://vk.com/id456581922
+00331-10000-00001-AA243,https://vk.com/kawasaki_kx_85_valit
