@@ -511,7 +511,6 @@
 00331-10000-00001-AA424,https://vk.com/yagedz
 00327-30650-44410-AAOEM,https://vk.com/id785672888
 00330-80000-00000-AA692,https://vk.com/harano
-00327-60000-00000-AA656,https://vk.com/brabusovskiy
 00330-80000-00000-AA661,https://vk.com/blydnblu_cbln
 00331-10000-00001-AA353,https://vk.com/egorukusov
 00331-20160-01325-AA690,https://vk.com/anawayosd
@@ -662,7 +661,6 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA997,https://vk.com/ilya__ser
 00326-10000-00000-AA508,https://vk.com/alexxxl02
 00331-10000-00001-AA038,https://vk.com/awpeshechka
-00330-80000-00000-AA056,https://vk.com/brabusovskiy
 00328-90000-00000-AAOEM,https://vk.com/r.devletov
 00326-10000-00000-AA213,https://vk.com/beed96
 00331-10000-00001-AA131,https://vk.com/id445505730
@@ -918,3 +916,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA739,https://vk.com/artur_gus
 00331-10000-00001-AA930,https://vk.com/id745805126
 00331-10000-00001-AA624,https://vk.com/id141471920
+00330-80000-00000-AA771,https://vk.com/brabusovskiy,https://vk.com/s1stemat1k
