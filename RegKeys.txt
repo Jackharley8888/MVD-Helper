@@ -928,4 +928,4 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA069,https://vk.com/ivansokolyanskiy
 00425-00000-00002-AA418,https://vk.com/id718968053
 00331-10000-00001-AA646,https://vk.com/id828102121
-00329-10130-09414-АА659,https://vk.com/deepferreiro
+00329-10130-09414-AA659,https://vk.com/deepferreiro
