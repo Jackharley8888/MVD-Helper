@@ -651,7 +651,7 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-20020-00000-AA171,https://vk.com/id642824179
 00331-10000-00001-AA201,https://vk.com/monsetq
 00325-81963-53533-AAOEM,https://vk.com/id694507741
-00330-80000-00000-AA988,https://vk.com/ib775517
+00330-80000-00000-AA988,https://vk.com/id554754486
 00330-80000-00000-AA353,https://vk.com/maksim220109
 00331-10000-00001-AA860,https://vk.com/kawasaki_kx_85_valit
 00331-10000-00001-AA468,https://vk.com/almazovv_d
