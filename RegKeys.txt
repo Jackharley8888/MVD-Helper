@@ -504,7 +504,6 @@
 00329-00000-00003-AA901,https://vk.com/4elshelby
 00331-10000-00001-AA682,https://vk.com/id760858199
 00330-80000-00000-AA431,https://vk.com/alkorezov
-00331-10000-00001-AA424,https://vk.com/yagedz
 00327-30650-44410-AAOEM,https://vk.com/id785672888
 00330-80000-00000-AA692,https://vk.com/harano
 00330-80000-00000-AA661,https://vk.com/blydnblu_cbln
@@ -948,3 +947,4 @@ N3MG1-FKOK1-MFP3-N5GOK,https://vk.com/xz223ad
 00327-60000-00000-AA852,https://vk.com/id629990353
 00331-10000-00001-AA514,https://vk.com/dekkk0
 00330-80000-00000-AA648,https://vk.com/fistacha
+00331-10000-00001-AA424,https://vk.com/yagedz
