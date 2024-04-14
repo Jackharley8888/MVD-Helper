@@ -613,7 +613,6 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00330-80000-00000-AA553,https://vk.com/krex_poxuy
 00436-50000-00000-AAOEM,https://vk.com/jspeedhunter
 00331-10000-00001-AA168,https://vk.com/kkasychok
-00331-10000-00001-AA141,https://vk.com/skshsndn
 00327-30463-20564-AAOEM,https://vk.com/bratishkinoff_ne_smehnoi
 00330-80000-00000-AA771,https://vk.com/brabusovskiy,https://vk.com/s1stemat1k
 00330-80000-00000-AA716,https://vk.com/forbs2
@@ -950,3 +949,4 @@ N3MG1-FKOK1-MFP3-N5GOK,https://vk.com/xz223ad
 00342-20895-46004-AAOEM,https://vk.com/id.trvye1
 00331-10000-00001-AA854,https://vk.com/romanromanovwhite
 00330-80000-00000-AA422,https://vk.com/zqqvpxt
+00330-80000-00000-AA871,https://vk.com/skshsndn
