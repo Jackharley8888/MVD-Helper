@@ -903,7 +903,6 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-10000-00000-AA718,https://vk.com/id700063073
 00330-80000-00000-AA877,https://vk.com/taboo00
 00331-10000-00001-AA895,https://vk.com/xtreepy
-00331-10000-00001-AA076,https://vk.com/ryo_kido
 00331-10000-00001-AA097,https://vk.com/kirill000000000000
 00330-80000-00000-AA471,https://vk.com/egor5160
 00331-10000-00001-AA739,https://vk.com/artur_gus
@@ -950,3 +949,4 @@ N3MG1-FKOK1-MFP3-N5GOK,https://vk.com/xz223ad
 00331-10000-00001-AA854,https://vk.com/romanromanovwhite
 00330-80000-00000-AA422,https://vk.com/zqqvpxt
 00330-80000-00000-AA871,https://vk.com/skshsndn
+00331-10000-00001-AA121,https://vk.com/ryo_kido
