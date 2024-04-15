@@ -921,7 +921,6 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA646,https://vk.com/id828102121
 00329-10130-09414-AA659,https://vk.com/deepferreiro
 00330-80000-00000-AA860,https://vk.com/missstilll
-00330-80000-00000-AA266,https://vk.com/jesko7331
 00327-70000-00001-AA472,https://vk.com/danqzzz
 00327-31050-71843-AAOEM,https://vk.com/k.zubspb
 00331-10000-00001-AA548,https://vk.com/selfish_fellow
@@ -950,3 +949,4 @@ N3MG1-FKOK1-MFP3-N5GOK,https://vk.com/xz223ad
 00330-80000-00000-AA871,https://vk.com/skshsndn
 00331-10000-00001-AA121,https://vk.com/ryo_kido
 00330-80000-00000-AA648,https://vk.com/fistacha
+00331-10000-00001-AA628,https://vk.com/jesko7331
