@@ -942,7 +942,6 @@ N3MG1-FKOK1-MFP3-N5GOK,https://vk.com/xz223ad
 00331-10000-00001-AA049,https://vk.com/jdsjdhs
 00327-60000-00000-AA852,https://vk.com/id629990353
 00331-10000-00001-AA514,https://vk.com/dekkk0
-00330-80000-00000-AA648,https://vk.com/fistacha
 00331-10000-00001-AA424,https://vk.com/yagedz
 00425-00000-00002-AA959,https://vk.com/d.sotnik17
 00342-20895-46004-AAOEM,https://vk.com/id.trvye1
@@ -950,3 +949,4 @@ N3MG1-FKOK1-MFP3-N5GOK,https://vk.com/xz223ad
 00330-80000-00000-AA422,https://vk.com/zqqvpxt
 00330-80000-00000-AA871,https://vk.com/skshsndn
 00331-10000-00001-AA121,https://vk.com/ryo_kido
+00330-80000-00000-AA648,https://vk.com/fistacha
