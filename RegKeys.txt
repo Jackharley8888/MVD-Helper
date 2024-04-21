@@ -322,7 +322,6 @@
 00342-41371-73637-AAOEM,https://vk.com/id619424946
 00330-50000-00000-AAOEM,https://vk.com/id721982539
 00330-80000-00000-AA404,https://vk.com/exilekol
-00425-00000-00002-AA835,https://vk.com/csgocsgo07
 00326-30000-00001-AA278,https://vk.com/boss2808
 00330-80000-00000-AA376,https://vk.com/c.walkman
 00342-42326-08281-AAOEM,https://vk.com/r.mushnin
@@ -957,3 +956,4 @@ N3MG1-FKOK1-MFP3-N5GOK,https://vk.com/xz223ad
 00342-43248-23501-AAOEM,https://vk.com/id562775021
 00331-10000-00001-AA604,https://vk.com/shadrin4ik
 00327-30948-65696-AAOEM,https://vk.com/id640493990
+00425-00000-00002-AA835,https://vk.com/csgocsgo07
