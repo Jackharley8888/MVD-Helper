@@ -327,7 +327,6 @@
 00342-42326-08281-AAOEM,https://vk.com/r.mushnin
 00327-60000-00000-AA762,https://vk.com/vodo4ka.v.zapoe
 00331-10000-00001-AA242,https://vk.com/id340452329
-00330-80000-00000-AA838,https://vk.com/itzalekzz
 00328-00000-00000-AA161,https://vk.com/keevinxz
 00330-80000-00000-AA258,https://vk.com/id742643402
 00331-10000-00001-AA376,https://vk.com/g.pelsik
@@ -964,3 +963,6 @@ N3MG1-FKOK1-MFP3-N5GOK,https://vk.com/xz223ad
 D30AD-124BF-A4B54-069E3,https://vk.com/id614607692
 00326-10000-00000-AA977,https://vk.com/gnom_gnomovic
 00330-80000-00000-AA881,https://vk.com/ave_revivus
+00326-10000-00000-AA870,https://vk.com/itzalekzz
+00331-10000-00001-AA275,https://vk.com/erenyegartop
+00331-10000-00001-AA277,https://vk.com/l.pablovsky
