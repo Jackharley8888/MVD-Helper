@@ -968,3 +968,5 @@ D30AD-124BF-A4B54-069E3,https://vk.com/id614607692
 00331-10000-00001-AA277,https://vk.com/l.pablovsky
 00331-20029-28144-AA108,https://vk.com/kodak2505
 00327-60000-00000-AA659,https://vk.com/id831041788
+00326-10883-99764-AA211,https://vk.com/artem.kasperr
+00356-24625-23578-AAOEM,https://vk.com/paxmeldirda
