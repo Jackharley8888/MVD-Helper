@@ -622,7 +622,6 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00425-00000-00002-AA043,https://vk.com/id831876330
 00331-10000-00001-AA012,https://vk.com/barabaca
 00342-20816-75904-AAOEM,https://vk.com/tkreality
-00326-10000-00000-AA104,https://vk.com/id541155941
 00330-80000-00000-AA234,https://vk.com/matteeeew
 00326-10000-00000-AA057,https://vk.com/rigaonal
 00328-10000-00001-AA660,https://vk.com/a222aa22
@@ -839,7 +838,6 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-10000-00000-AA470,https://vk.com/yakaito
 00330-80000-00000-AA279,https://vk.com/ymokasi
 00331-10000-00001-AA619,https://vk.com/sky0334
-00326-10000-00000-AA966,https://vk.com/id541155941
 00330-80000-00000-AA155,https://vk.com/adonaldack
 00326-30000-00001-AA073,https://vk.com/makapowka777
 00327-30222-14342-AAOEM,https://vk.com/extazzyexe
@@ -973,3 +971,4 @@ D30AD-124BF-A4B54-069E3,https://vk.com/id614607692
 00330-80000-00000-AA682,https://vk.com/lil.eblan
 00331-20160-00000-AA113,https://vk.com/kooonovalov
 00331-10000-00001-AA630,https://vk.com/lil_z0nexxx
+00326-10000-00000-AA368,https://vk.com/id541155941
