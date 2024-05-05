@@ -384,7 +384,7 @@
 00330-80000-00000-AA272,https://vk.com/e.shellby
 00330-80000-00000-AA488,https://vk.com/qcherkiz14
 00330-81485-67706-AA306,https://vk.com/matteev1x
-00331-10000-00001-AA023,https://vk.com/homkarp747
+00330-80000-00000-AA388,https://vk.com/homkarp747,https://vk.com/ext4zzzzz
 00330-80000-00000-AA447,https://vk.com/mipoo4
 00331-10000-00001-AA791,https://vk.com/id742643402
 00331-10000-00001-AA033,https://vk.com/vladik.petrov3
