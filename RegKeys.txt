@@ -473,7 +473,6 @@
 00425-00000-00002-AA500,https://vk.com/ld_government
 00330-80000-00000-AA680,https://vk.com/v.aacc
 00330-80000-00000-AA127,https://vk.com/id243873887
-00330-80000-00000-AA622,https://vk.com/id622700963
 00326-10000-00000-AA648,https://vk.com/velietto2
 00330-80000-00000-AA016,https://vk.com/id817710604
 00331-10000-00001-AA419,https://vk.com/m.dlprod
@@ -975,3 +974,4 @@ D30AD-124BF-A4B54-069E3,https://vk.com/id614607692
 00327-30682-55001-AAOEM,https://vk.com/vinogradik008
 00327-60000-00000-AA707,https://vk.com/arkvardn
 00331-10000-00001-AA289,https://vk.com/krakazybrik
+00330-80000-00000-AA144,https://vk.com/id622700963
