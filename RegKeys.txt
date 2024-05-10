@@ -313,7 +313,7 @@
 00330-80000-00000-AA892,https://vk.com/maiorov_roman
 00327-30553-37109-AAOEM,https://vk.com/klaus_mills
 00331-10000-00001-AA565,https://vk.com/solevoyd
-00330-80000-00000-AA476,https://vk.com/cherq
+83691-OEM-3544604-16279,https://vk.com/cherq
 00326-10000-00000-AA865,https://vk.com/mike_falcone
 00330-80000-00000-AA872,https://vk.com/masyaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 00327-30004-79385-AAOEM,https://vk.com/id577118347
