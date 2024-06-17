@@ -610,7 +610,7 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00436-50000-00000-AAOEM,https://vk.com/jspeedhunter
 00331-10000-00001-AA168,https://vk.com/kkasychok
 00327-30463-20564-AAOEM,https://vk.com/bratishkinoff_ne_smehnoi
-00342-21004-32122-AAOEM,https://vk.com/brabusovskiy,https://vk.com/s1stemat1k
+00330-80000-00000-AA771,https://vk.com/brabusovskiy,https://vk.com/s1stemat1k
 00330-80000-00000-AA716,https://vk.com/forbs2
 00327-60000-00000-AA566,https://vk.com/operskoy102russ
 00331-10000-00001-AA890,https://vk.com/phoshik
