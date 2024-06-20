@@ -1009,3 +1009,6 @@ D30AD-124BF-A4B54-069E3,https://vk.com/id614607692
 DB51D-73E8B-0E8AA-A7BA1,https://vk.com/kakokosha
 00325-81438-32120-AAOEM,https://vk.com/idcoffinpotrepko
 00342-20779-71761-AAOEM,https://vk.com/id729626707
+00330-80000-00000-AA532,https://vk.com/buzzdog
+00327-70000-00001-AA200,https://vk.com/zerosixten
+FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
