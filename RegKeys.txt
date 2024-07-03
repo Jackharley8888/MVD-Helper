@@ -1030,3 +1030,4 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00330-80000-00000-AA895,https://vk.com/nik_tvard
 00330-81617-96784-AA777,https://vk.com/alexandr_rybakov1
 00331-10000-00001-AA722,https://vk.com/idxfrostx
+00330-80000-00000-AA568,https://vk.com/den4ik_126
