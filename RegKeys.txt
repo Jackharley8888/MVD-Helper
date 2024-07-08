@@ -1037,3 +1037,4 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00342-43322-23605-AAOEM,https://vk.com/nevskiy_off
 00330-80000-00000-AA128,https://vk.com/pinvitee
 00330-80000-00000-AA212,https://vk.com/liquidosich
+00328-90000-00000-AAOEM,https://vk.com/id767194994
