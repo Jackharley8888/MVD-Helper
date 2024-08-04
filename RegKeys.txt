@@ -306,7 +306,7 @@
 00330-80000-00000-AA377,https://vk.com/megapon1234
 00330-80000-00000-AA817,https://vk.com/vi1i0nis
 00330-80000-00000-AA976,https://vk.com/idivjopyloxbeeeee
-00426-OEM-8992662-00010,https://vk.com/nichojolovanni
+00331-20160-43047-AA435,https://vk.com/nichojolovanni
 00330-80000-00000-AA506,https://vk.com/acril01
 00331-10000-00001-AA288,https://vk.com/serzik288
 00327-30553-37109-AAOEM,https://vk.com/klaus_mills
@@ -1059,3 +1059,6 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00331-10000-00001-AA780,https://vk.com/r0st1k12
 00331-10000-00001-AA326,https://vk.com/id502380717
 00326-10000-00000-AA279,https://vk.com/id869069282
+00326-10000-00000-AA713,https://vk.com/qwicks3
+00330-80000-00000-AA113,https://vk.com/nikitafffjjfjd
+00326-10000-00000-AA378,https://vk.com/nk_2008_05
