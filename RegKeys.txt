@@ -871,7 +871,7 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00326-30000-00001-AA219,https://vk.com/huisgorid
 00330-80000-00000-AA133,https://vk.com/ntrnz
 00331-20020-00000-AA178,https://vk.com/littledenchik
-00327-70000-00001-AA596,https://vk.com/0disneyland0
+00327-70000-00001-AA820,https://vk.com/0disneyland0,https://vk.com/zovzovov
 00330-80000-00000-AA805,https://vk.com/sosi_zalypky
 00326-10000-00000-AA727,https://vk.com/kozirniy69
 00331-10000-00001-AA047,https://vk.com/rickowens22
