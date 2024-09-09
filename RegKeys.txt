@@ -1039,7 +1039,6 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00330-81493-11087-AA631,https://vk.com/neva.zhniy
 00327-30838-54997-AAOEM,https://vk.com/lilkapibara
 00330-80000-00000-AA610,https://vk.com/id736315467
-00327-60000-00000-AA656,https://vk.com/idsen1chkin
 00342-41426-89355-AAOEM,https://vk.com/sdsddsdsddnxjjx
 00378-20000-00003-AA484,https://vk.com/prodamgarage3
 00331-10000-00001-AA319,https://vk.com/kovalevich6666
@@ -1085,3 +1084,4 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00331-10000-00001-AA068,https://vk.com/skezz_zubenkoo
 00325-81516-16264-AAOEM,https://vk.com/deniz_bakkaloglu
 00330-80000-00000-AA028,https://vk.com/zubenkoo77
+00327-60000-00000-AA656,https://vk.com/idsen1chkin
