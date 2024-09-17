@@ -1089,3 +1089,4 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00331-10000-00001-AA468,https://vk.com/almazovv_d
 00331-10000-00001-AA569,https://vk.com/joseska
 00425-00000-00002-AA003,https://vk.com/id442930059
+00330-80000-00000-AA411,https://vk.com/guynaa
