@@ -1092,3 +1092,4 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00330-80000-00000-AA411,https://vk.com/guynaa
 00326-10000-00000-AA464,https://vk.com/yakaito
 00330-80000-00000-AA381,https://vk.com/dkoretskiy
+00326-10000-00000-AA943,https://vk.com/obemenaf
