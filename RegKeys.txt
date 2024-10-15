@@ -6,6 +6,7 @@
 00331-10000-00001-AA882 Ляшов
 00326-10000-00000-AA357 HERCEG
 00330-80000-00000-AA211 Панамный
+00330-80000-00000-AA123,https://vk.com/andergr0ynd
 00327-70000-00001-AA710,https://vk.com/poesnitika(Herceg)
 00330-81621-25115-AA494,https://vk.com/tihow
 00331-10000-00001-AA973,https://vk.com/flesh_200
