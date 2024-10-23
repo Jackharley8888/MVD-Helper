@@ -1105,3 +1105,4 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00330-80000-00000-AA364,https://vk.com/xxl8760
 00331-10000-00003-EE636,https://vk.com/byscott
 00327-30510-61010-AAOEM,https://vk.com/elcarmoneteam
+00330-80000-00000-AA278,https://vk.com/slatra
