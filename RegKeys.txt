@@ -1074,7 +1074,7 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00326-10000-00000-AA783,https://vk.com/evoronin5
 00330-80000-00000-AA533,https://vk.com/mkloins
 00425-00000-00002-AA338,https://vk.com/sh444
-00425-00000-00002-AA202,https://vk.com/forzyanych
+00331-10000-00001-AA945,https://vk.com/forzyanych
 00326-10853-63567-AA001,https://vk.com/daar
 00330-80000-00000-AA878,https://vk.com/forbs2
 00330-80000-00000-AA594,https://vk.com/kubinskiy_zayats
