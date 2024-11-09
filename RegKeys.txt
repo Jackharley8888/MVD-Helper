@@ -741,7 +741,7 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00331-10000-00001-AA965,https://vk.com/ppanteleev555
 00330-80000-00000-AA191,https://vk.com/hellheir666
 00331-10000-00001-AA600,https://vk.com/whymultivarka
-00326-10000-00000-AA851,https://vk.com/id374916180
+00330-80121-09509-AA378,https://vk.com/id374916180
 00436-50000-00000-AAOEM,https://vk.com/vaylex
 00328-10000-00001-AA364,https://vk.com/barski05
 00327-50001-92988-AAOEM,https://vk.com/yamahajognz
@@ -941,7 +941,7 @@ N3MG1-FKOK1-MFP3-N5GOK,https://vk.com/xz223ad
 00331-10000-00001-AA345,https://vk.com/k.chemerisov6
 00326-10055-41702-AA000,https://vk.com/id704311798
 00331-20020-00000-AA275,https://vk.com/id447482820
-00330-80000-00000-AA304,https://vk.com/yagedz
+00330-80000-00000-AA628,https://vk.com/yagedz
 00436-20000-00000-AAOEM,https://vk.com/id629717510
 00330-80000-00000-AA805,https://vk.com/wladik_58
 00342-43248-23501-AAOEM,https://vk.com/id562775021
