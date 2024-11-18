@@ -902,7 +902,6 @@ a787f-a2bc3-98d11-bc94M,https://vk.com/bunikk
 00329-00000-00003-AA068,https://vk.com/zloy300iq
 00330-50621-79702-AAOEM,https://vk.com/f1uze
 00331-10000-00001-AA742,https://vk.com/wata004
-00330-80000-00000-AA456,https://vk.com/winnerbylife_11
 00330-80000-00000-AA150,https://vk.com/id502380717
 00331-20140-21798-AA153,https://vk.com/zxcausted
 00327-30682-69493-AAOEM,https://vk.com/porohov2007
@@ -1110,3 +1109,4 @@ FE3EC-79DDF-D7E18-6C91C,https://vk.com/denisvolodko2019
 00331-10000-00001-AA070,https://vk.com/dedylyawkep
 00330-80000-00000-AA154,https://vk.com/boog2008
 00327-60000-00000-AA102,https://vk.com/exxcesaw
+00330-80000-00000-AA456,https://vk.com/winnerbylife_11
